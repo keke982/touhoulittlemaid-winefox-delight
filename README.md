@@ -1,0 +1,94 @@
+# 🍷 Winefox Delight
+
+**Raise them. Befriend them. Feed them. Or face the consequences.**
+
+Winefox Delight is an extensive add-on for Touhou Little Maid that transforms ordinary maid management into a deeper, more dynamic, and occasionally disturbing experience.
+
+Build a thriving maid farm, breed new generations, explore social interactions, prepare food, and discover what happens when the peaceful life of your maids takes a darker turn.
+
+From cute daily activities to unsettling consequences, your choices can shape the stories that unfold on your farm.
+
+## 🌱 Features
+
+### 🏡 Maid Farming & Natural Spawning
+- Wild maids can naturally spawn throughout the world.
+- Maid groups may appear around houses and village environments.
+- Befriend wild maids with sweet berries and bring them to your farm.
+- Provide food, shelter, and suitable living conditions to maintain your growing population.
+
+### 🍼 Breeding & Generational Growth
+- Adult maids can breed and produce baby maids.
+- Baby maids gradually grow into adults.
+- Some appearance traits can be inherited from their parents.
+- Build a farm with multiple generations of maids.
+
+### 🍰 Food, Cooking & Resource Management
+- Maids interact with food and may compete with each other for meals.
+- Certain foods can attract groups of maids and trigger special interactions.
+- Explore additional food-related gameplay through supported cooking and crafting integrations.
+- Manage your farm's food supply as your maid population grows.
+
+### 💬 Social Behavior & Emotional Reactions
+- Maids have contextual dialogue and reactions.
+- Their behavior can change in response to nearby events.
+- Maid groups can exhibit protective behavior, conflicts, and other social interactions.
+- Certain events may lead to fear, sadness, resentment, or rebellion.
+
+### 🔪 Butchery & Processing
+- The mod explores a darker side of maid farming through butchery-related mechanics.
+- Certain gameplay systems involve processing maid-related remains and integrating them into the broader food and crafting experience.
+- Dedicated interactions and dialogue react to disturbing events around the farm.
+- These mechanics add a grim contrast to the otherwise peaceful breeding and farming systems.
+
+### 🕯️ Despair, Mourning & Supernatural Events
+- Witnessing the deaths of other maids can affect the emotional state of surviving maids.
+- Repeated traumatic events may lead to depression, refusal to work, or rebellion.
+- Unattended remains can trigger mourning-related events and other unsettling consequences.
+- Certain locations may become associated with supernatural phenomena after dark.
+- Mysterious figures and disturbing encounters can turn an ordinary farm into a horror experience.
+
+### ⚔️ Grudges, Revenge & Consequences
+- Certain actions can cause maids to develop resentment toward the player.
+- Grudges can lead to hostile behavior, sabotage, and revenge-related interactions.
+- Some situations allow a conflict to end before it escalates further.
+- Treat your maids carelessly, and the consequences may eventually catch up with you.
+
+### ⚙️ Configuration & Compatibility
+Various settings allow players to customize aspects of spawning, breeding, and maid ecology.
+
+The mod also integrates with several companion mods to expand animations, activities, crafting, and food-related gameplay.
+
+## 📦 Requirements & Dependencies
+
+**Minecraft:** 1.20.1  
+**Mod Loader:** Minecraft Forge
+
+Required dependencies:
+
+1. **Touhou Little Maid** — Core maid system.
+2. **MoreAnimation** — Additional animations.
+3. **Maid Cute Activity** — Maid activities and interactions.
+4. **ButcherCraft** — Butchery-related gameplay integration.
+5. **Farmer's Delight** — Food and cooking integration.
+
+Install compatible versions of all required dependencies before launching the game.
+
+## 🎮 Your Farm, Your Choices
+
+Will you create a peaceful sanctuary where maids can live, grow, and raise their children?
+
+Will you focus on food production, resource management, and expanding your farm?
+
+Or will you explore the darker mechanics, where disturbing actions can leave lasting consequences on the maids around you?
+
+Winefox Delight combines farming, breeding, social interactions, dark humor, and horror-inspired mechanics into one unusual experience.
+
+**Raise them. Manage them. And remember: your choices have consequences.**
+
+## 🛠️ Development & Feedback
+
+Winefox Delight is an ongoing project. New mechanics, interactions, and improvements may be added over time.
+
+Please report bugs and compatibility issues through the project's issue tracker.
+
+Enjoy the mod, and thank you for playing!
