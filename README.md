@@ -53,6 +53,40 @@ From cute daily activities to unsettling consequences, your choices can shape th
 - Some situations allow a conflict to end before it escalates further.
 - Treat your maids carelessly, and the consequences may eventually catch up with you.
 
+- ### 😾 Grudge System — Actions Have Consequences
+
+Maids have memories, feelings, and limits. Treat them poorly, and they may not forget it.
+
+Winefox Delight features a persistent grudge system that tracks how a maid feels about the player's behavior. Hitting, bullying, neglecting, or failing to meet a maid's basic needs can gradually increase her grudge value.
+
+As resentment grows, her behavior changes through several stages:
+
+- **Displeased:** She may avoid the player, display angry reactions, and express her dissatisfaction through dialogue.
+- **Holding a Grudge:** She may secretly stare at the player, become less willing to flee when attacked, and occasionally sabotage household objects such as doors or chests.
+- **Revenge:** Further aggression can trigger a retaliatory fight. The maid may pursue and attack the player before eventually stopping and delivering a final line of dialogue.
+
+Grudges are not necessarily permanent. Feeding the maid, interacting with her, and spending time together can gradually reduce her resentment. However, reconciliation becomes more difficult when her grudge value is high.
+
+The system also accounts for prolonged neglect and certain poor living conditions, making everyday care an important part of maintaining a good relationship.
+
+**Be careful how you treat your maids. Forgiveness is possible, but it is not guaranteed to come easily.**
+
+### ⚔️ Rebel Maids — An Armed Resistance
+
+Not every maid is willing to remain under someone else's control.
+
+Winefox Delight features a separate faction of armed rebel maids, complete with their own camps, equipment, and hostile behavior. These are not simply ordinary maids with a different appearance: they operate as an independent armed force within the game world.
+
+- **Armed Combat:** Rebel maids can carry firearms and attack nearby players or hostile creatures. With compatible weapon mods installed, they can use weapons such as the M4A1 and may throw grenades. Without the required firearm integration, they can use a melee weapon instead.
+- **Rebel Camps:** Rebel encampments provide a home for the faction and serve as places where players can encounter its members.
+- **Disarmament and Negotiation:** Players can approach a rebel camp while holding a white flag to initiate a truce. The rebels will confiscate weapons, ammunition, grenades, and food carried by the player.
+- **Truce Rules:** Disarmament establishes a temporary peaceful arrangement, but the agreement can be broken if the player draws a weapon inside the camp or attacks a maid.
+- **Independent Combat Behavior:** Rebel maids can engage nearby threats without requiring the player to command every action.
+
+Rebel maids add a different dimension to the mod's world, introducing armed encounters, faction-based interactions, and the possibility of negotiating with a group that does not automatically trust the player.
+
+**Enter their territory carefully. A white flag may open the door to negotiation, but breaking the truce has consequences.**
+
 ### ⚙️ Configuration & Compatibility
 Various settings allow players to customize aspects of spawning, breeding, and maid ecology.
 
