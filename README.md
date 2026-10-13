@@ -117,6 +117,8 @@ Or will you explore the darker mechanics, where disturbing actions can leave las
 
 Winefox Delight combines farming, breeding, social interactions, dark humor, and horror-inspired mechanics into one unusual experience.
 
+## To access the slaughter content and recipes made with maid meat, open the config file and enable the slaughter content toggle. You must restart the game for the changes to take effect. This feature was originally designed to help the mod pass moderation.
+
 **Raise them. Manage them. And remember: your choices have consequences.**
 
 # 📢 Project Update — Moving to GitHub
