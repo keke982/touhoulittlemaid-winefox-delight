@@ -85,6 +85,51 @@ Winefox Delight combines farming, breeding, social interactions, dark humor, and
 
 **Raise them. Manage them. And remember: your choices have consequences.**
 
+# 📢 Project Update — Moving to GitHub
+
+**Winefox Delight is now available on GitHub!**
+
+After experiencing repeated reports, removals, and review issues on CurseForge, I've decided to make GitHub an additional home for this project.
+
+## Why GitHub?
+
+Winefox Delight is an unconventional Touhou Little Maid add-on. It combines maid farming, breeding, daily interactions, cooking integration, and darker gameplay mechanics involving butchery, emotional reactions, revenge, and horror-inspired events.
+
+Unfortunately, the project has repeatedly faced reports and removals on CurseForge. Maintaining the project under these circumstances has become increasingly frustrating, especially when updates and development are interrupted.
+
+I understand that not everyone will enjoy the themes and mechanics featured in this mod. That's completely fine — this project is not intended for everyone.
+
+However, I would prefer players to evaluate the mod based on its actual content rather than having its availability repeatedly disrupted by disagreements over its design.
+
+## Why GitHub?
+
+Moving to GitHub gives the project another place to host releases, maintain version history, publish changelogs, and organize bug reports.
+
+It also makes it easier to keep older versions available and communicate directly with players about development.
+
+Please note that GitHub has its own policies and rules. This move is intended to provide a more convenient and reliable development and distribution channel, not to bypass platform policies.
+
+## What's Next?
+
+Development will continue to focus on expanding and improving:
+
+- Maid farming, breeding, and baby growth
+- Maid behavior, animations, and social interactions
+- Food, cooking, and compatibility with other mods
+- Butchery-related mechanics and their consequences
+- Emotional states, grudges, revenge, and horror events
+- Bug fixes, balance adjustments, and general improvements
+
+## A Note to Players
+
+Thank you to everyone who has tried Winefox Delight, provided feedback, reported bugs, or supported its development.
+
+You don't have to like every mechanic in this project, and constructive criticism is always welcome. If the mod isn't for you, that's perfectly understandable.
+
+For those who enjoy its unusual combination of farming, interaction systems, dark humor, and horror elements, I hope this new home makes it easier to follow updates and access future releases.
+
+**The project is moving forward. Thank you for being part of the journey!**
+
 ## 🛠️ Development & Feedback
 
 Winefox Delight is an ongoing project. New mechanics, interactions, and improvements may be added over time.
